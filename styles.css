@@ -1,0 +1,13 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,61,9,1) 51%, rgba(0,212,255,1) 100%);
+}
+
+#index-title {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#food-pic {
+text-align: center;
+}
